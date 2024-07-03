@@ -1,0 +1,1 @@
+java -cp ./target/newMavenProj-1.0-SNAPSHOT.jar org.example.Main
