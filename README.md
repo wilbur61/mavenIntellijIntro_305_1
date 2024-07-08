@@ -1,18 +1,18 @@
 # mavenIntellijIntro_305_1
-introduce maven intellij project
+introduce maven intellij project<br>
 
-There are two main ways to set up Maven in IntelliJ IDEA:
+There are two main ways to set up Maven in IntelliJ IDEA:<br>
 
-Creating a new project with a Maven archetype:
+Creating a new project with a Maven archetype:<br>
 
-This is the recommended approach for new projects.
-Open the New Project wizard.
-Select Build System Maven
-Configure your project details like name, location, and optionally a Git repository.
+This is the recommended approach for new projects.<br>
+Open the New Project wizard.<br>
+Select Build System Maven <br>
+Configure your project details like name, location, and optionally a Git repository.<br>
 IntelliJ IDEA will automatically set up Maven for the project, including creating a pom.xml file.
 
-niceutube video!
-https://www.youtube.com/watch?v=AuXyciZtlCc
+nice utube video! <br>
+https://www.youtube.com/watch?v=AuXyciZtlCc  <br>
 
 
 Adding Maven support to an existing project:
