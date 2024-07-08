@@ -11,7 +11,7 @@ Select Build System Maven
 Configure your project details like name, location, and optionally a Git repository.
 IntelliJ IDEA will automatically set up Maven for the project, including creating a pom.xml file.
 
-niceutube videq!
+niceutube video!
 https://www.youtube.com/watch?v=AuXyciZtlCc
 
 
