@@ -7,7 +7,8 @@ Creating a new project with a Maven archetype:<br>
 
 This is the recommended approach for new projects.<br>
 Open the New Project wizard.<br>
-Select Build System # Maven <br>
+Select Build System <br>
+# Maven <br>
 Configure your project details like name, location, and optionally a Git repository.<br>
 IntelliJ IDEA will automatically set up Maven for the project, including creating a pom.xml file.
 
